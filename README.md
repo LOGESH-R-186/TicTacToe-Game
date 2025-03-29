@@ -34,13 +34,13 @@ This is a simple Tic-Tac-Toe game built using Core Java and Java Swing for the g
 
 ## Screenshots
 ### Game Interface
-![Main Game Window]()
+![Main Game Window](assets/images/Screenshot 2025-03-29 172724.png)
 
 ### Winning Screen
-![Winning Screen]()
+![Winning Screen](assets/images/Screenshot 2025-03-29 172302.png)
 
 ### Tie model Screen
-![Winning Screen]()
+![Winning Screen](assets/images/Screenshot 2025-03-29 172349.png)
 
 
 ## Future Enhancements
