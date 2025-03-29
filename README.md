@@ -34,13 +34,13 @@ This is a simple Tic-Tac-Toe game built using Core Java and Java Swing for the g
 
 ## Screenshots
 ### Game Interface
-![Main Game Window](assets/images/Screenshot 2025-03-29 172724.png)
+![Main Game Window](https://github.com/LOGESH-R-186/TicTacToe-Game/blob/c968b33b0307512f8ab676eeb0aecf1dc323b020/assets/images/Screenshot%202025-03-29%20172724.png)
 
 ### Winning Screen
-![Winning Screen](assets/images/Screenshot 2025-03-29 172302.png)
+![Winning Screen](https://github.com/LOGESH-R-186/TicTacToe-Game/blob/c968b33b0307512f8ab676eeb0aecf1dc323b020/assets/images/Screenshot%202025-03-29%20172302.png)
 
 ### Tie model Screen
-![Winning Screen](assets/images/Screenshot 2025-03-29 172349.png)
+![Winning Screen](https://github.com/LOGESH-R-186/TicTacToe-Game/blob/c968b33b0307512f8ab676eeb0aecf1dc323b020/assets/images/Screenshot%202025-03-29%20172349.png)
 
 
 ## Future Enhancements
